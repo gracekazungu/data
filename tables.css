@@ -1,0 +1,5 @@
+.container table,th,td{
+    border-collapse: collapse;
+    border: solid black;
+    
+}
